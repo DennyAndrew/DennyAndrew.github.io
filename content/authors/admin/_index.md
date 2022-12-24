@@ -19,26 +19,26 @@ role: Data Science
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Universidade Federal do Paraná
-    url: https://www.stanford.edu/
+    url: https://www.ufpr.br/portalufpr/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  - Linguagem Python
   - Computational Linguistics
   - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+    - course: Bacharelado em Estatística 
+      institution: Universidade Federal do Paraná
+      year: 2020 - atualmente
+    - course: Técnico em Admnistração
+      institution: Centro Paula Souza
+      year: 2014 - 2015
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
