@@ -66,6 +66,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title:  Bolsista - PET Estatística
+          company: Universidade Federal do Paraná
+          company_url: ''
+          company_logo: org-gc
+          location: Curitiba / PR
+          date_start: '2022-07-01'
+          date_end: ''
         - title: Estágio - Núcleo de Estatística e Monitoramento da Corregedoria
           company: Tribunal de Justiça do Estado do Paraná
           company_url: ''
@@ -79,16 +86,6 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
-    design:
-      columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.

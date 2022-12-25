@@ -18,7 +18,7 @@ role: Data Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Universidade Federal do Paraná
+  - name: Federal University os Paraná
     url: https://www.ufpr.br/portalufpr/
 
 # Short bio (displayed in user profile at end of posts)
