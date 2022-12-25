@@ -17,17 +17,17 @@ sections:
       title: Skills
       items:
         - name: R
-          description: 90%
+          description: ''
           icon: r-project
           icon_pack: fab
         - name: Statistics
-          description: 100%
+          description: ''
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+        - name: Python
+          descriptio: ''
+          icon: python
+          icon_pack: fab
   - block: experience
     content:
       title: Academic
@@ -44,19 +44,16 @@ sections:
           company: Universidade Federal do Paraná
           company_url: ''
           company_logo: org-gc
-          location: California
+          location: Curitiba / PR
           date_start: '2020-01-01'
           date_end: ''
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Técnico em Administração
+          company: Escola Técnica de Registro - Centro Paula Souza
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
-    design:
-      columns: '2'
+          location: Registro / SP
+          date_start: '2014-01-01'
+          date_end: '2015-07-31'
   - block: experience
     content:
       title: Experience
@@ -69,13 +66,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Estágio - Núcleo de Estatística e Monitoramento da Corregedoria
+          company: Tribunal de Justiça do Estado do Paraná
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Curitiba / PR
+          date_start: '2022-07-01'
+          date_end: '2022-12-13'
           description: |2-
               Responsibilities include:
 
@@ -105,21 +102,21 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateDialog.aspx?CpSFAULT79H5WmkxifukpKfLfNtl3%2fRr
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2022-11-11'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
+          organization: Fundação Bradesco
+          organization_url: https://www.ev.org.br/
+          title: Linguagem de Programação Python - Básico
+          url: 'https://www.ev.org.br/'
+        - certificate_url: https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateDialog.aspx?CpSFAULT79H5WmkxifukpKfLfNtl3%2fRr
           date_end: ''
           date_start: '2021-01-01'
           description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
+          organization: Fundação Bradesco
+          organization_url: https://www.ev.org.br/
+          title: Linguagem de Programação Python - Básico
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
@@ -239,35 +236,19 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Qualquer dúvida ou comentário fique à vontade.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+      email: dennyandrew@ufpr.br
+      phone: (41) 99837-4848
       contact_links:
-        - icon: twitter
+        - icon: linkedin
           icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
+          name: LinkedIn
+          link: 'https://www.linkedin.com/in/denny-andrew-137598160/'
+        - icon: instagram
           icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+          name: Instagram
+          link: 'https://www.instagram.com/denny_andrew/'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
