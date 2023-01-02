@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: 
 date: 2022-10-24
 type: landing
 
@@ -241,7 +241,7 @@ sections:
       text: |-
         Qualquer dúvida ou comentário fique à vontade.
       # Contact (add or remove contact options as necessary)
-      email: dennyandrew@ufpr.br
+      email: dennyandrew98@gmail.com
       phone: (41) 99837-4848
       contact_links:
         - icon: linkedin

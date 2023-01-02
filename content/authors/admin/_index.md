@@ -6,19 +6,17 @@ title: Denny Andrew
 first_name: Denny
 last_name: Andrew
 
-# Status emoji
-status:
-  icon: ☕️
+
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Data Science
+role: Estatístico e Cientista de Dados
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Federal University os Paraná
+  - name: Universidade Federal do Paraná
     url: https://www.ufpr.br/portalufpr/
 
 # Short bio (displayed in user profile at end of posts)
@@ -80,5 +78,5 @@ email: ''
 highlight_name: true
 ---
 
-Denny Andrew is a graduate student in Statistics at the Federal University of Paraná. His interests include temporal analysis, computational statistics and python programming. Currently member of the Tutorial Education Program of the Statistics course, working in the visual communication department, responsible for the PET website.
+Olá! Me chamo Denny Andrew, sou aluno de graduação em Estatística pela Universidade Federal do Paraná. Atualmente integro o Programa de Educação Tutorial do curso de Estatística da UFPR, atuando no departamento de comunicação visual, responsável pelo site do PET. Além disso sou estagiário de monitoramento de modelos estatísticos do Departamento de Recuperação de Crédito do Bradesco, o segundo maior banco privado do país.
 {style="text-align: justify;"}
