@@ -30,7 +30,7 @@ sections:
           icon_pack: fab
   - block: experience
     content:
-      title: Academic
+      title: Formação Acadêmica 
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -43,20 +43,20 @@ sections:
         - title: Bacharelado em Estatística
           company: Universidade Federal do Paraná
           company_url: ''
-          company_logo: org-gc
           location: Curitiba / PR
           date_start: '2020-01-01'
           date_end: ''
         - title: Técnico em Administração
           company: Escola Técnica de Registro - Centro Paula Souza
           company_url: ''
-          company_logo: org-x
           location: Registro / SP
           date_start: '2014-01-01'
           date_end: '2015-07-31'
+    design:
+      columns: '2'
   - block: experience
     content:
-      title: Experience
+      title: Experiência Profissional
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -66,17 +66,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Estágio - Departamento de Recuperação de Crédito
+          company: Bradesco
+          company_url: ''
+          location: Curitiba / PR
+          date_start: '2022-12-21'
+          date_end: ''
         - title:  Bolsista - PET Estatística
           company: Universidade Federal do Paraná
           company_url: ''
-          company_logo: org-gc
           location: Curitiba / PR
           date_start: '2022-07-01'
           date_end: ''
         - title: Estágio - Núcleo de Estatística e Monitoramento da Corregedoria
           company: Tribunal de Justiça do Estado do Paraná
           company_url: ''
-          company_logo: org-gc
           location: Curitiba / PR
           date_start: '2022-07-01'
           date_end: '2022-12-13'
@@ -86,10 +90,12 @@ sections:
               * Analysing
               * Modelling
               * Deploying
+    design:
+      columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Certificados'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
