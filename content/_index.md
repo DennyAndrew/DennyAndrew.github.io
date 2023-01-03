@@ -105,14 +105,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateDialog.aspx?CpSFAULT79H5WmkxifukpKfLfNtl3%2fRr
+        - certificate_url:
           date_end: ''
-          date_start: '2022-11-11'
+          date_start: '2022-11-21'
           description: ''
-          organization: Fundação Bradesco
-          organization_url: https://www.ev.org.br/
-          title: Linguagem de Programação Python - Básico
-          url: 'https://www.ev.org.br/'
+          organization: Udemy
+          organization_url: https://www.udemy.com/
+          title: Programação Pyhton
+          url: ''
         - certificate_url: https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateDialog.aspx?CpSFAULT79H5WmkxifukpKfLfNtl3%2fRr
           date_end: ''
           date_start: '2021-01-01'
